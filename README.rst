@@ -38,7 +38,7 @@ History
 
 
 This library seems to have started as a gist by Danny Yoo & made the rounds in
-various versions until Miguel Ángel García turned it into a portable package
+various versions until Miguel Angel Garcia turned it into a portable package
 for their `python-inquirer`_ project.  Then K.C.Saff forked it & smashed it
 into this new form for their own command line input library.
 
@@ -205,7 +205,7 @@ Please, **Execute the tests before any pull-request**. This will avoid invalid b
 License
 =======
 
-Copyright (c) 2014, 2015 Miguel Ángel García (`@magmax9`_).
+Copyright (c) 2014, 2015 Miguel Angel Garcia (`@magmax9`_).
 
 Copyright (c) 2016 K.C.Saff (`@kcsaff`_)
 
